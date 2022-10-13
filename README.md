@@ -1,2 +1,5 @@
 # PersonnelManagement
-This is a Personnel Management Project
+## PROJECT OVERVIEW
+
+* Create a KNN clustering model to define customer segments.
+
