@@ -1,5 +1,6 @@
 # PersonnelManagement
 ## PROJECT OVERVIEW
 
-* Create a KNN clustering model to define customer segments.
+* Create an excel manual report which shows the human resources overviews.
+
 
